@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^1.2.1",
+    "lodash": "^2.0.0",
     "wordo": "0.0.2"
   }
 }
